@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+lxml
+fuzzywuzzy
+install git+https://github.com/abenassi/Google-Search-API
+python-Levenshtein
+selenium
